@@ -23,6 +23,9 @@ In recent training episodes (e.g., Episode 321), the model achieved:
 2. Run the training script: `mining-dispatch-ai.py`.
 3. The model will start training and automatically save the weights as `mining_model.pth`.
 
+## 📬 Contact
+Let's connect on [LinkedIn](linkedin.com/in/reza--parsa/)!
+
 ## 📚 References & Academic Background
 This project is inspired by and built upon the following research papers in the field of mine dispatching and fleet management:
 
